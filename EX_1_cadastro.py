@@ -17,4 +17,11 @@
 # | ------------------------------ |
 
 # ------------------------------------------ ESCREVA SEU CÓDIGO ABAIXO -----------------------------------------------------------
+nome = input("digite o seu nome :")
+idade = input("digite a sua idade :")
+email = input("digite o seu email:")
+senha = int(input("digite a sua senha:"))
 
+print('| ------------------------------ |')
+print('| ---------- CADASTRO ---------- |')
+print('| ------------------------------ |')

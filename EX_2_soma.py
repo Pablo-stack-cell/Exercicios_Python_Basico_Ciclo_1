@@ -8,3 +8,7 @@
 
 # ------------------------------------------ ESCREVA SEU CÓDIGO ABAIXO -----------------------------------------------------------
 
+a = float(input('Qual número você quer? '))
+b = int(input('Qual número você quer? '))
+resultado = a+b
+print(f"o resultado é {resultado}")
